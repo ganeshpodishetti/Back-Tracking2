@@ -1,0 +1,28 @@
+.heading{
+    margin:0px;
+    padding: 0px;
+}
+.copyright{
+    margin: 0px;
+}
+code{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:royalblue;
+    font-style: normal;
+}
+
+pre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rebeccapurple;
+    font-style: normal;
+}
+
+.white{
+    color: black;
+    font-weight: 600;
+}
+.h{
+    color: blue;
+    display: inline;
+    font-weight: 200;
+}
